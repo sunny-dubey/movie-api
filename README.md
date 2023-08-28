@@ -63,6 +63,11 @@ This is a public route accessible to all
 
 [API-Documentation](https://documenter.getpostman.com/view/28873754/2s9Y5ZugQb)
 
+## Scope for Improvements
+
+-  Better Commenting
+-  More features could be added regarding the user registration
+
 ## Authors
 
 - [@sunnydubey](https://www.github.com/sunny-dubey)
