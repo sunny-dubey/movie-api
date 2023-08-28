@@ -58,6 +58,11 @@ This route will be protected and shall only be accessible to the logged in user.
 
 This is a public route accessible to all
 
+
+## Documentation
+
+[API-Documentation](https://documenter.getpostman.com/view/28873754/2s9Y5ZugQb)
+
 ## Authors
 
 - [@sunnydubey](https://www.github.com/sunny-dubey)
