@@ -3,6 +3,15 @@
 A simple backend project consisting of CRUD APIs to register in a system and perform task such as get movies list, rate movies etc.
 This project has login ang signup features as well as the routes are protected.
 
+
+### Project status
+
+- [ ] Create a Boiler App
+- [x] Add all Routes
+- [ ] Local Storage of Active Streams  
+- [ ] Create Controllers Functions
+- [ ] Create a Utils Function to Fetch 
+
 ## API Reference
 
 #### Register New User
