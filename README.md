@@ -6,11 +6,11 @@ This project has login ang signup features as well as the routes are protected.
 
 ### Project status
 
-- [ ] Create a Boiler App
+- [x] Create a Boiler App
 - [x] Add all Routes
-- [ ] Local Storage of Active Streams  
-- [ ] Create Controllers Functions
-- [ ] Create a Utils Function to Fetch 
+- [x] Local Storage of Active Streams  
+- [x] Create Controllers Functions
+- [x] Create a Utils Function to Fetch 
 
 ## API Reference
 
